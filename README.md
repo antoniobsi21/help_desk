@@ -2,8 +2,8 @@
 
 ### How is setup?
 
-![Setup img](https://raw.githubusercontent.com/antoniobsi21/help_desk/main/setup_ini.png);
+![Setup img](http://github.com/antoniobsi21/help_desk/blob/main/setup_ini.png?raw=true);
 
 ### Index
 
-![Index img](https://raw.githubusercontent.com/antoniobsi21/help_desk/main/index.png);
+![Index img](http://github.com/antoniobsi21/help_desk/blob/main/index.png);
